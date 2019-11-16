@@ -225,8 +225,6 @@ GEM
       json (>= 1.8, < 3)
       simplecov-html (~> 0.10.0)
     simplecov-html (0.10.0)
-    skylight (0.10.5)
-      activesupport (>= 3.0.0)
     slop (3.6.0)
     spring (1.7.2)
     spring-commands-rspec (1.0.4)
@@ -312,7 +310,6 @@ DEPENDENCIES
   shoulda-matchers
   simple_form
   simplecov
-  skylight
   spring
   spring-commands-rspec
   sprockets (>= 3.0.0)
@@ -325,7 +322,7 @@ DEPENDENCIES
   webmock
 
 RUBY VERSION
-   ruby 2.3.1p112
+   ruby 2.6.3p62
 
 BUNDLED WITH
-   1.12.5
+   1.17.2
