@@ -96,7 +96,7 @@ GEM
     factory_girl_rails (4.7.0)
       factory_girl (~> 4.7.0)
       railties (>= 3.0.0)
-    ffi (1.9.14)
+    ffi (1.11.2)
     flutie (2.0.0)
     formulaic (0.3.0)
       activesupport
